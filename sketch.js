@@ -20,7 +20,7 @@ function setup() {
   iss = createSprite(330,130);
   iss.addImage(issimg);
   iss.scale = 0.25;
-  iss.debug=true;
+//   iss.debug=true;
 }
 
 function draw() {
